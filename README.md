@@ -1,22 +1,18 @@
-### 📌제출 규격
+
+
+##### 📌제출 규격
 
 알고리즘유형 / 사이트 문제번호 문제이름 / 이름.java
 
+<br>
 
+##### 📖 회의록
+
+[0928](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_09_28.md)
 
 <br>
 
-<br>
-
-### 📖 회의록
-
-[0928 회의]: https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_09_28.md	"0928회의록링크"
-
-
-
-<br><br>
-
-### 📋 풀어본 문제
+##### 📋 풀어본 문제
 
 <details>
     <summary>백준</summary>
@@ -30,6 +26,8 @@
         <li><a href="https://www.acmicpc.net/problem/17143">낚시왕_17143</li>
     </ol>
 </details>
+<br>
+
 
 <details>
     <summary>SWEA</summary>
