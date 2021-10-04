@@ -26,8 +26,6 @@
         <li><a href="https://www.acmicpc.net/problem/17143">낚시왕_17143</li>
     </ol>
 </details>
-<br>
-
 
 <details>
     <summary>SWEA</summary>
@@ -35,7 +33,4 @@
         <li><a href="">예시</li>
     </ol>
 </details>
-
-
-
 
