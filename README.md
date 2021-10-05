@@ -10,6 +10,8 @@
 
 [0928](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_09_28.md)
 
+[1005](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_05.md)
+
 <br>
 
 ##### 📋 풀어본 문제
@@ -33,4 +35,3 @@
         <li><a href="">예시</li>
     </ol>
 </details>
-
