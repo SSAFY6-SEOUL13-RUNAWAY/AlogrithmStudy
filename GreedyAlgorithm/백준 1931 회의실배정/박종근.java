@@ -44,7 +44,7 @@ public class BJ1931회의실배정 {
 			}
 		});
 		
-		int E = 1;
+		int E = 0;
 		int cnt = 0;
 		while (true) {
 			boolean flag = true;
