@@ -16,8 +16,7 @@
 
 ##### 📋 풀어본 문제
 
-<<<<<<< HEAD
-**백준**
+##### **백준**
 
 1. 11047 동전 0
 2. 1931 회의실 배정
@@ -55,25 +54,3 @@
 5. 7272 안경이 없어
 6. 1767 프로세서연결하기
 7. 5656 벽돌깨기
-
-=======
-<details>
-    <summary>백준</summary>
-    <ol>
-        <li><a href="https://www.acmicpc.net/problem/11047">11047 동전 0</li>
-        <li><a href="https://www.acmicpc.net/problem/1931">1931 회의실 배정</li>
-        <li><a href="https://www.acmicpc.net/problem/1541">1541 잃어버린 괄호</li>
-        <li><a href="https://www.acmicpc.net/problem/1003">1003 피보나치 함수</li>
-        <li><a href="https://www.acmicpc.net/problem/1904">1904 01타일</li>
-        <li><a href="https://www.acmicpc.net/problem/9184">9184 신나는 함수 여행</li>
-        <li><a href="https://www.acmicpc.net/problem/17143">17143 낚시왕</li>
-    </ol>
-</details>
-
-<details>
-    <summary>SW Expert Academy</summary>
-    <ol>
-        <li>3282 0/1Knapsack</li>
-    </ol>
-</details>
->>>>>>> c3536ae7cdc3a0934a4da23098b4707fac5e8b5c
