@@ -19,19 +19,19 @@
 <details>
     <summary>백준</summary>
     <ol>
-        <li><a href="https://www.acmicpc.net/problem/11047">동전 0_11047</li>
-        <li><a href="https://www.acmicpc.net/problem/1931">회의실 배정_1931</li>
-        <li><a href="https://www.acmicpc.net/problem/1541">잃어버린 괄호_1541</li>
-        <li><a href="https://www.acmicpc.net/problem/1003">피보나치 함수_1003</li>
-        <li><a href="https://www.acmicpc.net/problem/1904">01타일_1904</li>
-        <li><a href="https://www.acmicpc.net/problem/9184">신나는 함수 여행_9184</li>
-        <li><a href="https://www.acmicpc.net/problem/17143">낚시왕_17143</li>
+        <li><a href="https://www.acmicpc.net/problem/11047">11047 동전 0</li>
+        <li><a href="https://www.acmicpc.net/problem/1931">1931 회의실 배정</li>
+        <li><a href="https://www.acmicpc.net/problem/1541">1541 잃어버린 괄호</li>
+        <li><a href="https://www.acmicpc.net/problem/1003">1003 피보나치 함수</li>
+        <li><a href="https://www.acmicpc.net/problem/1904">1904 01타일</li>
+        <li><a href="https://www.acmicpc.net/problem/9184">9184 신나는 함수 여행</li>
+        <li><a href="https://www.acmicpc.net/problem/17143">17143 낚시왕</li>
     </ol>
 </details>
 
 <details>
-    <summary>SWEA</summary>
+    <summary>SW Expert Academy</summary>
     <ol>
-        <li><a href="">예시</li>
+        <li>3282 0/1Knapsack</li>
     </ol>
 </details>
