@@ -1,5 +1,6 @@
 package algoStudy1007;
 
+import java.io.*;
 import java.util.*;
 
 public class Main_13305_주유소 {
@@ -9,20 +10,20 @@ public class Main_13305_주유소 {
 	static long[] dist;
 	static boolean[] visited;
 
-	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
+	public static void main(String[] args) throws IOException {
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
-		N = sc.nextInt();
+		N = Integer.parseInt(br.readLine());
 		oil = new long[N];
 		dist = new long[N - 1];
 		visited = new boolean[N];
-
+		StringTokenizer st = new StringTokenizer(br.readLine());
 		for (int j = 0; j < dist.length; j++) {
-			dist[j] = sc.nextLong();
+			dist[j] = Integer.parseInt(st.nextToken());
 		}
-		
+		st = new StringTokenizer(br.readLine());
 		for (int i = 0; i < N; i++) {
-			oil[i] = sc.nextLong();
+			oil[i] = Integer.parseInt(st.nextToken());
 		}
 	
 		long cost = 0;
