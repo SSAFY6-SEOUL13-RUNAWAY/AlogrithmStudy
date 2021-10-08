@@ -17,10 +17,7 @@ public class greedy_b13305_주유소_1008 {
 		long total = 0;
 		long min = cost[0];
 		for (int i = 0; i < N-1; i++) {
-			//Math.min(min, cost[i]);
-			if(cost[i]<min) {
-				min = cost[i];
-			}
+			min = Math.min(min, cost[i]);
 			total += (dist[i] * min);
 		}
 		System.out.println(total);
