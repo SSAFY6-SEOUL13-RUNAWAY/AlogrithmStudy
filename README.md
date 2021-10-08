@@ -8,9 +8,8 @@
 
 ##### 📖 회의록
 
-[0928](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_09_28.md)
-
-[1005](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_05.md)
+1. [0928](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_09_28.md)
+2. [1005](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_05.md)
 
 <br>
 
@@ -42,6 +41,13 @@
 22. 10870 피보나치수5
 23. 11729 하노이탑이동순서
 24. 17143 낚시왕
+25. 1012 유기농배추
+26. 1707 이분그래프
+27. 17144 미세먼지안녕
+28. 2667 단지번호붙이기
+29. 7576 토마토
+30. 14502 연구소
+31. 17141 연구소2
 
 
 
