@@ -9,7 +9,12 @@
 ##### 📖 회의록
 
 1. [0928](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_09_28.md)
+
 2. [1005](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_05.md)
+
+3. [1008](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_08.md)
+
+   
 
 <br>
 
@@ -48,6 +53,7 @@
 29. 7576 토마토
 30. 14502 연구소
 31. 17141 연구소2
+32. 1654 랜선자르기
 
 
 
@@ -60,3 +66,9 @@
 5. 7272 안경이 없어
 6. 1767 프로세서연결하기
 7. 5656 벽돌깨기
+
+
+
+**프로그래머스**
+
+1. [2021 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/learn/challenges)  신규 아이디 추천
