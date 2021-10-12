@@ -11,8 +11,8 @@ string solution(string new_id) {
             answer[i] = answer[i] - 'A' + 'a';
         
         int cnt = 0;
-        if(!(answer[i] >= 'A' && answer[i] <= 'Z') &&  !(answer[i] >= 'a' && answer[i] <= 'z'0          && !(answer[i] >= '0' && answer[i] <= '9') && answer[i] != '-' 
-         && answer[i] != '_' && answer[i] != '.'){
+        if(!(answer[i] >= 'A' && answer[i] <= 'Z') &&  !(answer[i] >= 'a' && answer[i] <= 'z')         
+         && !(answer[i] >= '0' && answer[i] <= '9') && answer[i] != '-' && answer[i] != '_' && answer[i] != '.'){
             answer = answer.substr(0, i) + answer.substr(i + 1, answer.length() - i - 1);
             cnt++;
         }
