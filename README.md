@@ -14,6 +14,8 @@
 
 3. [1008](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_08.md)
 
+4. [1012](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_12.md)
+
    
 
 <br>
@@ -74,3 +76,7 @@
 **프로그래머스**
 
 1. [2021 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/learn/challenges)  신규 아이디 추천
+2. [2021 카카오 채용연계형 인턴십](https://programmers.co.kr/learn/challenges) 숫자 문자열과 영단어
+3. [2017 카카오코드 예선](https://programmers.co.kr/learn/challenges) 카카오프렌즈 컬러링북
+4. [2019 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/learn/challenges) 오픈채팅방
+
