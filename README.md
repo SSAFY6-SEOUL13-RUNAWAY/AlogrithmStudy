@@ -18,6 +18,8 @@
 
 5. [1022](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_22.md)
 
+6. [1027](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_27.md)
+
    
 
 <br>
@@ -83,4 +85,6 @@
 4. [2019 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/learn/challenges) 오픈채팅방
 5. [2019 카카오 개발자 겨울 인턴십](https://programmers.co.kr/learn/challenges) 크레인 인형뽑기 게임
 6. [2017 카카오코드 본선](https://programmers.co.kr/learn/challenges) 단체사진 찍기
+7. [월간 코드 챌린지 시즌3](https://programmers.co.kr/learn/challenges) 없는 숫자 더하기
+8. [Summer/Winter Coding(2019)](https://programmers.co.kr/learn/challenges) 멀쩡한 사각형
 
