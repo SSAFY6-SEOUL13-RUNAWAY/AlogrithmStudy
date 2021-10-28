@@ -1,57 +1,44 @@
+import java.util.*;
+
 class Solution {
     static int Answer;
-    static char[] Person = {'A', 'C', 'F', 'J', 'M', 'N', 'R', 'T'};
-    static boolean[] Checked;
-    static char[] Line;
+    static Stack<Integer> stack;
     
-    public int solution(int n, String[] data) {
+    public int solution(int[][] board, int[] moves) {
         Answer = 0;
-        Checked = new boolean[8];
-        Line = new char[8];
-
-        Perm(0,data);
+        stack = new Stack<Integer>();
+        
+        for(int i =0; i< moves.length; i++) {
+            int c = moves[i]-1;
+            // 아무것도 안 뽑힐 경우
+            int doll = pick(board, c);
+            if(doll == 0) continue;
+            
+            // 뽑았으면 
+            if(stack.empty()) stack.push(doll);
+            else {
+                // 마지막 칸과 같으면
+                if(stack.peek() == doll) {
+                    Answer += 2;
+                    stack.pop();
+                }
+                else {
+                    stack.push(doll);
+                }
+            }
+        }
+        
         return Answer;
     }
     
-    public static int getLength(char start, char end) {
-        int sIdx = 0;
-        int eIdx = 0;
-        for(int j = 0; j < 8; j++) {
-            if(Line[j] == start) sIdx = j;
-            else if(Line[j] == end) eIdx = j;
+    public static int pick(int[][] board, int c) {
+        for(int i = 0; i < board.length; i++) {
+            if(board[i][c] != 0) {
+                int temp = board[i][c]; 
+                board[i][c] = 0;
+                return temp;
+            }
         }
-        return Math.abs(sIdx-eIdx)-1;
-    }
-    
-    public static boolean dataCheck(String[] data) {
-        for(int i = 0; i< data.length; i++) {
-            String cmd = data[i];
-            char start = cmd.charAt(0);
-            char end = cmd.charAt(2);
-            
-            char compare = cmd.charAt(3);
-            int length = cmd.charAt(4);
-            
-            if(compare == '>' && getLength(start, end) <= length) return false;
-            else if(compare == '<' && getLength(start, end) >= length) return false;
-            else if(compare == '=' && getLength(start, end) != length) return false;
-        }
-        return true;
-    }
-    
-    public static void Perm(int count, String[] data) {
-        if(count == 8) {
-            if(dataCheck(data)) Answer++;
-            return;
-        }
-        
-        for(int i = 0; i < 8; i++) {
-            if(Checked[i]) continue;
-            
-            Checked[i] = true;
-            Line[count] = Person[i];
-            Perm(count+1, data);
-            Checked[i] = false;
-        }
+        return 0;
     }
 }
