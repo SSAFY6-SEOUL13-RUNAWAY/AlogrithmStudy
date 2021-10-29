@@ -11,18 +11,12 @@
 ##### 📖 회의록
 
 1. [0928](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_09_28.md)
-
 2. [1005](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_05.md)
-
 3. [1008](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_08.md)
-
 4. [1012](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_12.md)
-
 5. [1022](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_22.md)
-
 6. [1027](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_27.md)
-
-   
+7. [1029](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_29.md)
 
 <hr>
 
@@ -89,4 +83,5 @@
 6. [2017 카카오코드 본선](https://programmers.co.kr/learn/challenges) 단체사진 찍기
 7. [월간 코드 챌린지 시즌3](https://programmers.co.kr/learn/challenges) 없는 숫자 더하기
 8. [Summer/Winter Coding(2019)](https://programmers.co.kr/learn/challenges) 멀쩡한 사각형
+9. [2021 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/learn/challenges) 합승 택시 요금
 
