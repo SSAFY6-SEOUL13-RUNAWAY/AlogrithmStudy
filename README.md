@@ -1,5 +1,14 @@
+
+
+##### 🏆명예의 전당
+
+조동균 (~ 2021. 11.04) 대보정보통신
+
+------
+
 ##### 💕소개
-김우찬 조동균 한지희 박종근의 알고리즘 스터디 깃허브에 오신것을 환영합니다. 
+
+김우찬 한지희 박종근의 알고리즘 스터디 깃허브에 오신것을 환영합니다. 
 <hr>
 
 ##### 📌제출 규격
@@ -17,6 +26,7 @@
 5. [1022](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_22.md)
 6. [1027](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_27.md)
 7. [1029](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_29.md)
+8. [1105](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_11_05.md)
 
 <hr>
 
@@ -84,4 +94,5 @@
 7. [월간 코드 챌린지 시즌3](https://programmers.co.kr/learn/challenges) 없는 숫자 더하기
 8. [Summer/Winter Coding(2019)](https://programmers.co.kr/learn/challenges) 멀쩡한 사각형
 9. [2021 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/learn/challenges) 합승 택시 요금
+10. [Summer/Winter Coding(~2018)](https://programmers.co.kr/learn/challenges) 소수만들기
 
