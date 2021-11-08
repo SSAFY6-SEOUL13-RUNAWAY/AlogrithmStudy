@@ -27,12 +27,13 @@
 6. [1027](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_27.md)
 7. [1029](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_29.md)
 8. [1105](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_11_05.md)
+8. [1108](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_11_08.md)
 
 <hr>
 
 ##### 📋 풀어본 문제
 
-##### **백준**
+**백준**
 
 1. 11047 동전 0
 2. 1931 회의실 배정
