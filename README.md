@@ -8,7 +8,7 @@
 
 ##### 💕소개
 
-김우찬 한지희 박종근의 알고리즘 스터디 깃허브에 오신것을 환영합니다. 
+김우찬 한지희 박종근의 알고리즘 스터디에 오신것을 환영합니다. 
 <hr>
 
 ##### 📌제출 규격
@@ -96,4 +96,5 @@
 8. [Summer/Winter Coding(2019)](https://programmers.co.kr/learn/challenges) 멀쩡한 사각형
 9. [2021 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/learn/challenges) 합승 택시 요금
 10. [Summer/Winter Coding(~2018)](https://programmers.co.kr/learn/challenges) 소수만들기
+10. [연습문제](https://programmers.co.kr/learn/challenges) 124 나라의 숫자
 
