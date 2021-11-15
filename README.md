@@ -28,6 +28,7 @@
 7. [1029](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_10_29.md)
 8. [1105](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_11_05.md)
 8. [1108](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_11_08.md)
+8. [1115](https://github.com/SSAFY6-SEOUL13-RUNAWAY/AlogrithmStudy/blob/main/Minutes%20of%20Meeting/2021_11_15.md)
 
 <hr>
 
@@ -96,5 +97,5 @@
 8. [Summer/Winter Coding(2019)](https://programmers.co.kr/learn/challenges) 멀쩡한 사각형
 9. [2021 KAKAO BLIND RECRUITMENT](https://programmers.co.kr/learn/challenges) 합승 택시 요금
 10. [Summer/Winter Coding(~2018)](https://programmers.co.kr/learn/challenges) 소수만들기
-10. [연습문제](https://programmers.co.kr/learn/challenges) 124 나라의 숫자
-
+11. [연습문제](https://programmers.co.kr/learn/challenges) 124 나라의 숫자
+12. [연습문제](https://programmers.co.kr/learn/courses/30/lessons/42586) 기능개발
